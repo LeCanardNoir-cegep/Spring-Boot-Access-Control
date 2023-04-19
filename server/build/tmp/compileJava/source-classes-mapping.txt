@@ -1,0 +1,44 @@
+org/sbac/ConfigurationSourceDonnees.java
+ org.sbac.ConfigurationSourceDonnees
+org/sbac/model/MUtilisateur.java
+ org.sbac.model.MUtilisateur
+org/sbac/id/WebServiceID.java
+ org.sbac.id.WebServiceID
+org/sbac/model/DepotQuiz.java
+ org.sbac.model.DepotQuiz
+org/sbac/transfert/QuizResume.java
+ org.sbac.transfert.QuizResume
+org/sbac/ConfigurationErreurs.java
+ org.sbac.ConfigurationErreurs
+org/sbac/transfert/QuizDetail.java
+ org.sbac.transfert.QuizDetail
+org/sbac/transfert/ConnexionReq.java
+ org.sbac.transfert.ConnexionReq
+org/sbac/quizzz/WebServiceQuiz.java
+ org.sbac.quizzz.WebServiceQuiz
+org/sbac/model/DepotUtilisateur.java
+ org.sbac.model.DepotUtilisateur
+org/sbac/transfert/AjouterQuestionReq.java
+ org.sbac.transfert.AjouterQuestionReq
+org/sbac/transfert/InscriptionReq.java
+ org.sbac.transfert.InscriptionReq
+org/sbac/model/MQuestion.java
+ org.sbac.model.MQuestion
+org/sbac/model/DepotQuestion.java
+ org.sbac.model.DepotQuestion
+org/sbac/ApplicationServeur.java
+ org.sbac.ApplicationServeur
+org/sbac/model/MQuiz.java
+ org.sbac.model.MQuiz
+org/sbac/quizzz/ServiceQuiz.java
+ org.sbac.quizzz.ServiceQuiz
+ org.sbac.quizzz.ServiceQuiz$Existing
+org/sbac/transfert/CreerQuizReq.java
+ org.sbac.transfert.CreerQuizReq
+org/sbac/ConfigurationSecurite.java
+ org.sbac.ConfigurationSecurite
+org/sbac/id/ServiceID.java
+ org.sbac.id.ServiceID
+ org.sbac.id.ServiceID$BadCredentials
+org/sbac/transfert/ModifierQuestionReq.java
+ org.sbac.transfert.ModifierQuestionReq
